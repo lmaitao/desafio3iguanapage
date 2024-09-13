@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+body {
+    color: #FFFFFF;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+h1 {
+    text-align: center;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+header > img {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background: transparent url('../img/bg-header.jpg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+main {
+    display: flex;
+    padding: 30px;
+    justify-content:center;
+    gap: 80px;
+    width: 100%;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+summary {
+    padding: 20px;
+    width: 475px;
+    height: 197px;
+    text-align: left center;
+    letter-spacing: 0px;
+    opacity: 1;
+    }
+figure > img {
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    background: transparent url('../img/iguana-1.jpg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+article {
+    display: block;
+    padding: 30px;
+    width: 100%;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+    }
+abbr > h2 {
+    padding: 30px;
+    text-align: center;
+    width: 100%;
+    }
+section {
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content:space-around
+    }
+.box > p {
+    padding: 20px;
+}
+figcaption > .container {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    width: 100%;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 0.96;
+    }
+.container img {
+    padding: 40px;
+    gap: 50px;
+    width: 100%;
+    flex-wrap: wrap;
+}
+footer {
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+    }

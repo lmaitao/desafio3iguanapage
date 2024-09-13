@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1 {
+    font-family: "Raleway", system-ui;
+    font-size: 50px;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    }
+summary {
+    font-family: "Raleway", system-ui;
+    font-size: 16px;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    }
+abbr > h2 {
+    font-family: "Raleway", system-ui;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    }
+h3 {
+    font-family: "Raleway", system-ui;
+    font-size: 20px;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    }
+.box > p {
+    font-family: "Raleway", system-ui;
+    font-size: 25px;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    }
